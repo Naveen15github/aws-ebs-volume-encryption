@@ -1,9 +1,10 @@
 # aws-ebs-volume-encryption
-![Alt text](image-url)
+![Alt text](https://github.com/Naveen15github/aws-ebs-volume-encryption/blob/de7231e43b1f24ead500042447d67da1cc74ff99/amazon-elastic-block-store-1.svg)
 
 ## 🔐 1. Encrypting Before Provisioning (New Instance)
-![Alt text](image-url)
-![Alt text](image-url)
+![Alt text](https://github.com/Naveen15github/aws-ebs-volume-encryption/blob/de7231e43b1f24ead500042447d67da1cc74ff99/Screenshot%20(109).png)
+![Alt text](https://github.com/Naveen15github/aws-ebs-volume-encryption/blob/de7231e43b1f24ead500042447d67da1cc74ff99/Screenshot%20(110).png)
+![Alt text](https://github.com/Naveen15github/aws-ebs-volume-encryption/blob/de7231e43b1f24ead500042447d67da1cc74ff99/Screenshot%20(111).png)
 This method encrypts the EC2 volume at the time of creating the instance.
 
 Logged in to the AWS Management Console.
@@ -32,6 +33,6 @@ Restarted the instance and verified it was running properly with encryption enab
 
 ✅ Result:
 
-![Alt text](image-url)
+![Alt text](https://github.com/Naveen15github/aws-ebs-volume-encryption/blob/de7231e43b1f24ead500042447d67da1cc74ff99/Screenshot%20(112).png)
 
 The existing EC2 instance was successfully converted to an encrypted one without losing data.
